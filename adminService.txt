@@ -1,1 +1,2 @@
 Admin can Add and Remove users
+Manages the Database
