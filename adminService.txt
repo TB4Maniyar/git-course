@@ -1,1 +1,3 @@
 Admin can Add and Remove users
+Manages the Database
+uses git for tracking record purpose
