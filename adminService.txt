@@ -1,3 +1,3 @@
 Admin can Add and Remove users
-Manages the Database
+Manages the Database Connection
 uses git for tracking record purpose
